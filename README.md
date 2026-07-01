@@ -61,7 +61,7 @@ sales-etl-pipeline/
 ### Через Docker Compose (рекомендуется)
 
 ```bash
-git clone https://github.com/jakeerror/sales-etl-pipeline.git
+git clone https://github.com/jakeerror/csv-etl-pipeline.git
 cd sales-etl-pipeline
 ```
 
